@@ -66,4 +66,7 @@ La Realidad Aumentada (RA) se ha posicionado como una tecnología emergente con 
 ## mind-AR
 - https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js
 
+## Estilo de letra utilizada (Bebas Neue)
+- https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap
+
 # LINK DE PROYECTO
