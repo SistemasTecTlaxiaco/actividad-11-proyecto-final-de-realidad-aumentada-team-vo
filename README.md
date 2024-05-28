@@ -19,11 +19,10 @@ Integrar funcionalidades avanzadas como el reconocimiento de voz para una mejor 
 La Realidad Aumentada (RA) se ha posicionado como una tecnología emergente con un gran potencial para transformar la manera en que se presentan y comercializan estos productos. Sin embargo, muchos medios actuales basados en imágenes y presentaciones estáticas limitan la capacidad de interacción y personalización, aspectos cruciales para captar y mantener el interés de los usuarios. El proyecto "avatarPresentador" responde a la necesidad de ofrecer presentaciones más dinámicas y envolventes mediante el uso de un avatar virtual interactivo. 
 
 # REQUISITOS :heavy_check_mark:
-
--Internet
--Navegador
--Marcador de imagen (Imagenes representativas de cada carrera)
--Dispositivo con camara
+-Internet.
+-Navegador.
+-Marcador de imagen (Imagenes representativas de cada carrera).
+-Dispositivo con camara.
 
 # COMO UTILIZAR LA APLICACIÓN
 
