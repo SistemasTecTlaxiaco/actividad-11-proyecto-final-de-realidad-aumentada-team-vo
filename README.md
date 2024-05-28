@@ -8,11 +8,15 @@ Desarrollar una aplicación de Realidad Aumentada (RA) llamada "avatarPresentado
 
 # OBJETIVO ESPECIFICO :mag:
 
-Caracterizar el prototipo a desarrollar.
-Analizar, depurar y levantar tridimensionalmente la información recopilada.
-Realizar el diseño del desarrollo de software con base a los prototipos.
-Desarrollar el entorno de realidad aumentada que permita la visualización del prototipo desde distintos ángulos.
-Integrar funcionalidades avanzadas como el reconocimiento de voz para una mejor interacción de la aplicación.
+-Caracterizar el prototipo a desarrollar.
+
+-Analizar, depurar y levantar tridimensionalmente la información recopilada.
+
+-Realizar el diseño del desarrollo de software con base a los prototipos.
+
+-Desarrollar el entorno de realidad aumentada que permita la visualización del prototipo desde distintos ángulos.
+
+-Integrar funcionalidades avanzadas como el reconocimiento de voz para una mejor interacción de la aplicación.
 
 # JUSTIFICACIÓN :pencil:
 
