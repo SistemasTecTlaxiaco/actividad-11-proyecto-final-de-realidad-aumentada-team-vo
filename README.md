@@ -20,8 +20,11 @@ La Realidad Aumentada (RA) se ha posicionado como una tecnología emergente con 
 
 # REQUISITOS :heavy_check_mark:
 -Internet.
+
 -Navegador.
--Marcador de imagen (Imagenes representativas de cada carrera).
+
+-Marcador de imagen.
+
 -Dispositivo con camara.
 
 # COMO UTILIZAR LA APLICACIÓN
