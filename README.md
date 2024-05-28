@@ -1,4 +1,4 @@
-#AvatarPresentador📱🧍‍♂️
+#AvatarPresentador:phone:
 
 La demanda tecnológica y la búsqueda de nuevas formas de interacción están en constante crecimiento. En respuesta a esta tendencia, presentamos "avatarPresentador" , permite la incorporación de un avatar virtual que guía y acompaña a los usuarios a través de diversos espacios físicos, proporcionando información detallada y personalizada. Gracias a esta tecnología, se pueden ajustar y personalizar parámetros en tiempo real, ofreciendo una experiencia inmersiva e interactiva que va más allá de las limitaciones de los medios basados en imágenes tradicionales.
 
