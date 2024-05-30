@@ -32,7 +32,7 @@ La Realidad Aumentada (RA) se ha posicionado como una tecnología emergente con 
 -Dispositivo con camara.
 
 # COMO UTILIZAR LA APLICACIÓN
-
+-https://www.youtube.com/watch?si=zC7H9Lf-h74pCNXh&v=Wa2ewMBeslA&feature=youtu.be
 # EQUIPO DE DESARROLLO :computer::boy:
 <table style="width: 100%; text-align: center;">
   <tr>
@@ -65,7 +65,6 @@ La Realidad Aumentada (RA) se ha posicionado como una tecnología emergente con 
 
 ## mind-AR
 - https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js
-
 ## Estilo de letra utilizada (Bebas Neue)
 - https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap
 
